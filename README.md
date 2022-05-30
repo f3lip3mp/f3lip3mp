@@ -1,6 +1,11 @@
 ##### E ai! Beleza?
 ## Meu nome é Felipe Menezes
 
+- 🏫 Análise e Desenvolvimento de Sistemas, 3º sem - Faculdade Senac-RS
+- 📚 Atualmente, estou estudando JavaScript focado em desenvolvimento web.
+- 📍 Porto Alegre/RS - Brasil
+
+
 
 <div align="center">
   <a href="https://github.com/f3lip3mp">
