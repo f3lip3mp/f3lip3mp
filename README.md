@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://github.com/f3lip3mp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3lip3mp&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3lip3mp&layout=demo&langs_count=7&theme=swift"/>
 </div>
 
 <div align="center"><br>
