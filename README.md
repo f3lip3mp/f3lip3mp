@@ -2,7 +2,7 @@
 ## Meu nome é Felipe Menezes
 
 - 🏫 Análise e Desenvolvimento de Sistemas, 6º sem - Faculdade Senac-RS
-- 📚 Atualmente, estou estudando JavaScript focado em desenvolvimento web.
+- 📚 Focado em aprender Kotlin.
 - 📍 Porto Alegre/RS - Brasil
 
 
