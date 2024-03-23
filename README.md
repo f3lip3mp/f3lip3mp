@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/f3lip3mp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3lip3mp&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=f3lip3mp&hide=contribs,prs&locale=pt-br"/>
 </div>
 
 <div align="center"><br>
